@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1754660742345,"sparkVersion":"3.3.4","uid":"OneHotEncoder_15d193222cc6","paramMap":{"outputCol":"arrival_time_vec","inputCol":"arrival_time_index"},"defaultParamMap":{"handleInvalid":"error","dropLast":true,"outputCol":"OneHotEncoder_15d193222cc6__output"}}
